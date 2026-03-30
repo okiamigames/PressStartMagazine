@@ -2,6 +2,8 @@
 
 An example of a responsive HTML/CSS Site created from scratch that follows the theme video game journalism.
 
+Web Preview: https://okiamigames.github.io/PressStartMagazine/
+
 ![Web Design Showcase](https://github.com/renchung9/pressstartmagazine/blob/main/poster.png?raw=true)
 
 ## Description
