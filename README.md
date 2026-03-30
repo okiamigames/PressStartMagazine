@@ -8,7 +8,7 @@ Web Preview: https://okiamigames.github.io/PressStartMagazine/
 
 ## Description
 
-Our Client's Aim (Which is Our Aim): 
+Our Client's Aim:
 
 To connect gamers with gaming news in a format that is clear and easily readable.
 
