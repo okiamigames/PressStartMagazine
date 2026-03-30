@@ -50,9 +50,9 @@ FAQ: COMING SOON
 
 ## Authors
 
-Creator. Ren Chung [GitHub](https://github.com/RenChung9)
+Creator. Ren Sato [GitHub](https://github.com/OkiamiGames)
 
-Co-Writer. Elio
+Co-Writer. Elio Helios
 
 ## Acknowledgments
 
