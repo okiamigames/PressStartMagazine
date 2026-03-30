@@ -14,7 +14,7 @@ Walkthrough for this Ver:
 
 This demo includes only the home page for now. It showcases a header that has a video playing in the background and links to the different main pages of the site. Links to gaming articles, an 'About Us', and a footer with social media links.
 
-Client's Objectives Cleared:
+Client's Requested Objectives Cleared:
 
 ✅ A hub for gaming-related news and reviews
 
@@ -33,7 +33,7 @@ Client's Objectives Cleared:
 
 ### Installing
 
-* Download from the main branch @ https://github.com/RenChung9/PressStartMagazine
+* Download from the main branch @ https://github.com/OkiamiGames/PressStartMagazine
 * Only uses the main branch
 
 ### Executing program
@@ -61,6 +61,8 @@ With Code Snippets From. Copilot
 and From. W3Schools
 
 and From. BootStrap
+
+All rights reserved. All additional copyrights and trademarks belong to their respective owners.
 
 ## Version History
 
